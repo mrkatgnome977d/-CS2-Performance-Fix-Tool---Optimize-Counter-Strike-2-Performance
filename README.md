@@ -53,4 +53,4 @@ copies or substantial portions of the Software.
 🤝 Support & Feedback
 <br>Found a bug or have suggestions?
 <br>→ [Open an Issue](https://github.com)
-<br>→ [Join Discord]((https://discord.com))
+<br>→ [Join Discord](https://discord.com)
